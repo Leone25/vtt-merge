@@ -2,7 +2,7 @@
 
 A tool to merge multiple WebVTT files into one.
 
-[# Try it!](https://webvtt-merge.enrico.wtf)
+# [Try it!](https://webvtt-merge.enrico.wtf)
 
 ## Development
 
